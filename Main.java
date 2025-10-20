@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Última actualización: 20/10/2025 06:44 PM -05");
         System.out.println("Contador de ejecución: ");
         for (int i = 1; i <= 5; i++) {
-            System.out.println("Iteración " + i);
+            System.out.println("Iteraciónn " + i);
         }
     }
 }
