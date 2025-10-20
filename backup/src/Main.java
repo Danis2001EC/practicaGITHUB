@@ -10,7 +10,7 @@ public class Main {
         for (int i = 1; i <= 10; i++) {
             System.out.printf("%-5s %2d = %2d%n", "3 x " + i, i, 3 * i);
         }
-        System.out.println("Última actualización: 20/10/2025 06:44 PM -05");
+        System.out.println("Última actualización: 20/10/2025 06:53 PM -05");
         System.out.println("Contador de ejecución: ");
         for (int i = 1; i <= 5; i++) {
             System.out.println("Iteración " + i);
